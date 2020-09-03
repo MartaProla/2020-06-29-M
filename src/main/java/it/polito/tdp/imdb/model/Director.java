@@ -1,5 +1,6 @@
 package it.polito.tdp.imdb.model;
 
+
 public class Director {
 	Integer id;
 	String firstName;
